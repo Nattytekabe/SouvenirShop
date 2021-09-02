@@ -3,4 +3,4 @@ Clone it or Download it.
 Then open it in Visual Studio. 
 In Solution Explorer click "mod_global". 
 Replace your directory directing to the MS Access database. 
-Then your all set. 
+Then your all set. (check out the screenshots for more visual detail)
